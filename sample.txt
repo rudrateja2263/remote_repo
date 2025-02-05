@@ -1,1 +1,1 @@
-hello this is from vs code
+hello this is from vs editor
